@@ -98,8 +98,8 @@ aside h2 {
 }
 
 .profile-image {
-  background-image: url("https://images.unsplash.com/photo-1618979251882-0b40ef3617f0?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-  background-size: 100%;
+  background-image: url("https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/543V/image/SkfUs7jbSGCUArhUIQKOqJQu-xY.PNG");
+  background-size: 170%;
   background-position: center 100%;
   width: var(--aside-width);
   height: var(--aside-width);
